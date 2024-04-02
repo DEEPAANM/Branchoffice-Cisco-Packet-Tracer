@@ -1,1 +1,1 @@
-Excited to showcase my network design project, where I designed and implemented a network for a branch office with a focus on efficiency and connectivity. The network design features separate VLANs for each department, providing isolation and security. Additionally, each department has its own wireless network and IP phone system, enabling effective communication. The network also includes a web hosting server with a DNS name for hosting internal services.
+
